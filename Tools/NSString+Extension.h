@@ -16,7 +16,7 @@
  @param font 字体
  @return 返回实际的文字的大小
  */
-- (CGSize)targetSizeForTextWithpurposeSize:(CGSize)purposeSize WithTextFont:(UIFont *)font;
+//- (CGSize)targetSizeForTextWithpurposeSize:(CGSize)purposeSize WithTextFont:(UIFont *)font;
 /**
  根据属性字符串信息返回属性字符串
  @param font 字体的大小
