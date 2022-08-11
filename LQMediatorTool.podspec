@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LQMediatorTool"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "一个食用的LQMediatorTool工具类"
 
   # This description is used to generate tags and improve search results.
